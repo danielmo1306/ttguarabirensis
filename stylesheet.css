@@ -10,16 +10,16 @@ html, body {
   min-height: 100%;
 }
 *{
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Garamond;
   color: #52BBCA;
   text-align: center;
 }
 #botao{
 	border-radius: 5px;
-	border: 2px solid #0B0A6E;
-	background-color: #0B0A6E;
+	border: 2px solid #52BBCA;
+	background-color: #52BBCA;
 	height: 20px;
-	width: 250px;
+	width: 180px;
 	margin: auto;
 }
 a{
