@@ -10,7 +10,7 @@ html, body {
   min-height: 100%;
 }
 *{
-  font-family: "Coronet";
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   color: #52BBCA;
   text-align: center;
 }
