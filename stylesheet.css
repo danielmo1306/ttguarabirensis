@@ -19,12 +19,14 @@ html, body {
 	border: 2px solid #52BBCA;
 	background-color: #52BBCA;
 	height: 15px;
-	width: 180px;
+	width: 250px;
 	margin: auto;
 }
 a{
-	color: #FFFFFF;
 	text-decoration: none;
+}
+h2{
+	color: #FFFFFF;
 }
 .principal {
   height: 100%;
