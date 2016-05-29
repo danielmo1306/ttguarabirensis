@@ -24,9 +24,8 @@ html, body {
 }
 a{
 	text-decoration: none;
-}
-h2{
 	color: #FFFFFF;
+	font-size: 30px;
 }
 .principal {
   height: 100%;
