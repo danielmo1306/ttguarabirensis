@@ -14,10 +14,7 @@ html, body {
   color: #52BBCA;
   text-align: center;
 }
-#botao{
-	border-radius: 5px;
-	border: 2px solid #52BBCA;
-	background-color: #52BBCA;
+img{
 	height: 20px;
 	width: 200px;
 	margin: auto;
